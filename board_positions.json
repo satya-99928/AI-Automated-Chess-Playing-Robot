@@ -1,0 +1,514 @@
+{
+    "a1": {
+        "base": 44,
+        "shoulder": 62,
+        "elbow": 0,
+        "wrist": 104,
+        "rotation": 180,
+        "gripper": 180
+    },
+    "b1": {
+        "base": 44,
+        "shoulder": 88,
+        "elbow": 40,
+        "wrist": 104,
+        "rotation": 176,
+        "gripper": 180
+    },
+    "c1": {
+        "base": 52,
+        "shoulder": 106,
+        "elbow": 58,
+        "wrist": 104,
+        "rotation": 168,
+        "gripper": 180
+    },
+    "d1": {
+        "base": 54,
+        "shoulder": 120,
+        "elbow": 78,
+        "wrist": 104,
+        "rotation": 168,
+        "gripper": 180
+    },
+    "e1": {
+        "base": 56,
+        "shoulder": 122,
+        "elbow": 78,
+        "wrist": 104,
+        "rotation": 152,
+        "gripper": 180
+    },
+    "f1": {
+        "base": 64,
+        "shoulder": 132,
+        "elbow": 96,
+        "wrist": 104,
+        "rotation": 160,
+        "gripper": 180
+    },
+    "g1": {
+        "base": 72,
+        "shoulder": 134,
+        "elbow": 100,
+        "wrist": 104,
+        "rotation": 154,
+        "gripper": 180
+    },
+    "h1": {
+        "base": 80,
+        "shoulder": 142,
+        "elbow": 114,
+        "wrist": 104,
+        "rotation": 158,
+        "gripper": 180
+    },
+    "a2": {
+        "base": 38,
+        "shoulder": 80,
+        "elbow": 22,
+        "wrist": 104,
+        "rotation": 170,
+        "gripper": 180
+    },
+    "b2": {
+        "base": 40,
+        "shoulder": 96,
+        "elbow": 52,
+        "wrist": 104,
+        "rotation": 180,
+        "gripper": 180
+    },
+    "c2": {
+        "base": 42,
+        "shoulder": 110,
+        "elbow": 70,
+        "wrist": 104,
+        "rotation": 172,
+        "gripper": 180
+    },
+    "d2": {
+        "base": 46,
+        "shoulder": 118,
+        "elbow": 88,
+        "wrist": 104,
+        "rotation": 180,
+        "gripper": 180
+    },
+    "e2": {
+        "base": 50,
+        "shoulder": 130,
+        "elbow": 102,
+        "wrist": 104,
+        "rotation": 174,
+        "gripper": 180
+    },
+    "f2": {
+        "base": 60,
+        "shoulder": 124,
+        "elbow": 78,
+        "wrist": 104,
+        "rotation": 126,
+        "gripper": 180
+    },
+    "g2": {
+        "base": 66,
+        "shoulder": 132,
+        "elbow": 90,
+        "wrist": 104,
+        "rotation": 128,
+        "gripper": 180
+    },
+    "h2": {
+        "base": 74,
+        "shoulder": 140,
+        "elbow": 108,
+        "wrist": 104,
+        "rotation": 138,
+        "gripper": 180
+    },
+    "a3": {
+        "base": 32,
+        "shoulder": 74,
+        "elbow": 8,
+        "wrist": 104,
+        "rotation": 150,
+        "gripper": 180
+    },
+    "b3": {
+        "base": 38,
+        "shoulder": 92,
+        "elbow": 28,
+        "wrist": 104,
+        "rotation": 134,
+        "gripper": 180
+    },
+    "c3": {
+        "base": 38,
+        "shoulder": 104,
+        "elbow": 46,
+        "wrist": 104,
+        "rotation": 134,
+        "gripper": 180
+    },
+    "d3": {
+        "base": 40,
+        "shoulder": 118,
+        "elbow": 70,
+        "wrist": 104,
+        "rotation": 142,
+        "gripper": 180
+    },
+    "e3": {
+        "base": 44,
+        "shoulder": 132,
+        "elbow": 92,
+        "wrist": 104,
+        "rotation": 144,
+        "gripper": 180
+    },
+    "f3": {
+        "base": 50,
+        "shoulder": 138,
+        "elbow": 104,
+        "wrist": 104,
+        "rotation": 148,
+        "gripper": 180
+    },
+    "g3": {
+        "base": 60,
+        "shoulder": 150,
+        "elbow": 124,
+        "wrist": 104,
+        "rotation": 160,
+        "gripper": 180
+    },
+    "h3": {
+        "base": 68,
+        "shoulder": 160,
+        "elbow": 146,
+        "wrist": 104,
+        "rotation": 170,
+        "gripper": 180
+    },
+    "a4": {
+        "base": 30,
+        "shoulder": 96,
+        "elbow": 48,
+        "wrist": 104,
+        "rotation": 176,
+        "gripper": 180
+    },
+    "b4": {
+        "base": 32,
+        "shoulder": 110,
+        "elbow": 72,
+        "wrist": 104,
+        "rotation": 180,
+        "gripper": 180
+    },
+    "c4": {
+        "base": 30,
+        "shoulder": 114,
+        "elbow": 70,
+        "wrist": 104,
+        "rotation": 154,
+        "gripper": 180
+    },
+    "d4": {
+        "base": 36,
+        "shoulder": 128,
+        "elbow": 94,
+        "wrist": 104,
+        "rotation": 160,
+        "gripper": 180
+    },
+    "e4": {
+        "base": 40,
+        "shoulder": 142,
+        "elbow": 120,
+        "wrist": 104,
+        "rotation": 172,
+        "gripper": 180
+    },
+    "f4": {
+        "base": 42,
+        "shoulder": 148,
+        "elbow": 126,
+        "wrist": 104,
+        "rotation": 164,
+        "gripper": 180
+    },
+    "g4": {
+        "base": 48,
+        "shoulder": 140,
+        "elbow": 104,
+        "wrist": 104,
+        "rotation": 122,
+        "gripper": 180
+    },
+    "h4": {
+        "base": 60,
+        "shoulder": 160,
+        "elbow": 134,
+        "wrist": 104,
+        "rotation": 146,
+        "gripper": 180
+    },
+    "a5": {
+        "base": 26,
+        "shoulder": 88,
+        "elbow": 26,
+        "wrist": 98,
+        "rotation": 146,
+        "gripper": 180
+    },
+    "b5": {
+        "base": 24,
+        "shoulder": 102,
+        "elbow": 42,
+        "wrist": 98,
+        "rotation": 136,
+        "gripper": 180
+    },
+    "c5": {
+        "base": 26,
+        "shoulder": 118,
+        "elbow": 78,
+        "wrist": 98,
+        "rotation": 158,
+        "gripper": 180
+    },
+    "d5": {
+        "base": 28,
+        "shoulder": 132,
+        "elbow": 102,
+        "wrist": 98,
+        "rotation": 168,
+        "gripper": 180
+    },
+    "e5": {
+        "base": 30,
+        "shoulder": 146,
+        "elbow": 128,
+        "wrist": 104,
+        "rotation": 180,
+        "gripper": 180
+    },
+    "f5": {
+        "base": 34,
+        "shoulder": 142,
+        "elbow": 108,
+        "wrist": 104,
+        "rotation": 136,
+        "gripper": 180
+    },
+    "g5": {
+        "base": 36,
+        "shoulder": 148,
+        "elbow": 118,
+        "wrist": 112,
+        "rotation": 132,
+        "gripper": 180
+    },
+    "h5": {
+        "base": 42,
+        "shoulder": 162,
+        "elbow": 140,
+        "wrist": 112,
+        "rotation": 140,
+        "gripper": 180
+    },
+    "a6": {
+        "base": 14,
+        "shoulder": 90,
+        "elbow": 28,
+        "wrist": 112,
+        "rotation": 150,
+        "gripper": 180
+    },
+    "b6": {
+        "base": 20,
+        "shoulder": 108,
+        "elbow": 64,
+        "wrist": 112,
+        "rotation": 162,
+        "gripper": 180
+    },
+    "c6": {
+        "base": 20,
+        "shoulder": 124,
+        "elbow": 88,
+        "wrist": 112,
+        "rotation": 168,
+        "gripper": 180
+    },
+    "d6": {
+        "base": 20,
+        "shoulder": 132,
+        "elbow": 100,
+        "wrist": 112,
+        "rotation": 162,
+        "gripper": 180
+    },
+    "e6": {
+        "base": 20,
+        "shoulder": 142,
+        "elbow": 114,
+        "wrist": 112,
+        "rotation": 156,
+        "gripper": 180
+    },
+    "f6": {
+        "base": 20,
+        "shoulder": 156,
+        "elbow": 130,
+        "wrist": 112,
+        "rotation": 156,
+        "gripper": 180
+    },
+    "g6": {
+        "base": 20,
+        "shoulder": 146,
+        "elbow": 114,
+        "wrist": 112,
+        "rotation": 124,
+        "gripper": 180
+    },
+    "h6": {
+        "base": 24,
+        "shoulder": 162,
+        "elbow": 138,
+        "wrist": 112,
+        "rotation": 132,
+        "gripper": 180
+    },
+    "a7": {
+        "base": 12,
+        "shoulder": 86,
+        "elbow": 22,
+        "wrist": 112,
+        "rotation": 142,
+        "gripper": 180
+    },
+    "b7": {
+        "base": 12,
+        "shoulder": 106,
+        "elbow": 54,
+        "wrist": 112,
+        "rotation": 150,
+        "gripper": 180
+    },
+    "c7": {
+        "base": 12,
+        "shoulder": 120,
+        "elbow": 80,
+        "wrist": 112,
+        "rotation": 156,
+        "gripper": 180
+    },
+    "d7": {
+        "base": 12,
+        "shoulder": 134,
+        "elbow": 108,
+        "wrist": 106,
+        "rotation": 172,
+        "gripper": 180
+    },
+    "e7": {
+        "base": 12,
+        "shoulder": 148,
+        "elbow": 130,
+        "wrist": 106,
+        "rotation": 176,
+        "gripper": 180
+    },
+    "f7": {
+        "base": 12,
+        "shoulder": 142,
+        "elbow": 108,
+        "wrist": 106,
+        "rotation": 132,
+        "gripper": 180
+    },
+    "g7": {
+        "base": 12,
+        "shoulder": 154,
+        "elbow": 128,
+        "wrist": 106,
+        "rotation": 138,
+        "gripper": 180
+    },
+    "h7": {
+        "base": 18,
+        "shoulder": 154,
+        "elbow": 132,
+        "wrist": 106,
+        "rotation": 126,
+        "gripper": 180
+    },
+    "a8": {
+        "base": 10,
+        "shoulder": 74,
+        "elbow": 0,
+        "wrist": 98,
+        "rotation": 126,
+        "gripper": 180
+    },
+    "b8": {
+        "base": 6,
+        "shoulder": 98,
+        "elbow": 36,
+        "wrist": 98,
+        "rotation": 132,
+        "gripper": 180
+    },
+    "c8": {
+        "base": 8,
+        "shoulder": 108,
+        "elbow": 52,
+        "wrist": 98,
+        "rotation": 128,
+        "gripper": 180
+    },
+    "d8": {
+        "base": 8,
+        "shoulder": 124,
+        "elbow": 84,
+        "wrist": 98,
+        "rotation": 140,
+        "gripper": 180
+    },
+    "e8": {
+        "base": 4,
+        "shoulder": 134,
+        "elbow": 98,
+        "wrist": 98,
+        "rotation": 140,
+        "gripper": 180
+    },
+    "f8": {
+        "base": 4,
+        "shoulder": 148,
+        "elbow": 118,
+        "wrist": 98,
+        "rotation": 140,
+        "gripper": 180
+    },
+    "g8": {
+        "base": 2,
+        "shoulder": 158,
+        "elbow": 136,
+        "wrist": 98,
+        "rotation": 146,
+        "gripper": 180
+    },
+    "h8": {
+        "base": 0,
+        "shoulder": 150,
+        "elbow": 124,
+        "wrist": 98,
+        "rotation": 118,
+        "gripper": 180
+    }
+}
