@@ -1,0 +1,9 @@
+opencv-python
+numpy
+python-chess
+pygame
+adafruit-circuitpython-servokit
+adafruit-blinka
+pip install -r requirements.txt
+sudo apt update
+sudo apt install stockfish
